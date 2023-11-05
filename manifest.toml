@@ -56,7 +56,7 @@ ram.runtime = "50M"
 
         [resources.sources.main]
         url = "https://github.com/silverbulletmd/silverbullet/releases/download/0.5.3/silverbullet-server-linux-x86_64.zip"
-        sha256 = "7e49c3dc159e1fea0e4a12c70cbd6b0a23911c433b621dbc7f5aba91c5550bd4"
+        sha256 = "e6e3919aa4143c8097f83556eef937414da0086734b4cae3e0bbf89398690f68"
         extract = true
         in_subdir = false
 
